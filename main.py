@@ -3,8 +3,6 @@ import random
 import cv2
 import pickle
 
-
-
 # Height and width of maze (in cells)
 H, W = 27, 43
 # Pixels per side of maze square
