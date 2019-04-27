@@ -14,4 +14,4 @@ A policy is just a way of making decisions. It assigns each grid cell (state) an
 
 The whiter a square, the greater the expected future reward of the optimal policy (or at least approximately, the video approaches the true value over time).
 
-The Bellman equation is a key part of modern reinforcement learning. Watch how the expected value of cells propagates from the bottom right one all the way to the top left in the gif!
+The Bellman equation is a key part of modern reinforcement learning. Watch how the expected value of cells propagates from the bottom right one all the way to the top left!
