@@ -2,7 +2,7 @@
 
 Code for https://www.youtube.com/watch?v=ZNbIKv9gCOg
 
-Maze walls can also be rendered! A maze Markov Decision Process solved with value iteration. 
+A maze Markov Decision Process solved with value iteration. Maze walls can optionally also be rendered!
 
 https://en.wikipedia.org/wiki/Markov_decision_process
 
