@@ -1,4 +1,4 @@
-This old code is not beautiful or comprehensible. I've decided to leave it here because I'm still proud of the results.
+Update: This old code is not beautiful or comprehensible. I've decided to leave it here because I'm still proud of the results.
 
 ![](vis.gif)
 
